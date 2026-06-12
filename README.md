@@ -170,18 +170,19 @@ Suspicious transactions contribute significantly to total fraud losses.
 - Cloud Dashboard Deployment
 
 ---
-# Power BI Financial & Fraud Analysis Dashboard
+## Dashboard Screenshots
 
-## Executive Summary KPI Cards
-![KPI Cards](images/POWER%20BI%20(1).jpeg)
+### Main Dashboard
+![Dashboard](https://github.com/rahulk93011-max/AI-Financial-Risk-Monitoring-and-Fraud-Detection-Dashboard/blob/main/Power%20BI%20Dashboard.jpeg?raw=true)
 
-## Regional Fraud Analysis
-![Fraud by Location](images/POWER%20BI%20(2).jpeg)
+### Department Analysis
+![Departments](https://github.com/rahulk93011-max/AI-Financial-Risk-Monitoring-and-Fraud-Detection-Dashboard/blob/main/Departments.jpeg?raw=true)
 
-## Loan Distribution and Risk Analysis
-![Loan Status](images/POWER%20BI%20(3).jpeg)
-![Loan Risk Level](images/POWER%20BI%20(6).jpeg)
+### Fraud Analysis
+![Fraud Status](https://github.com/rahulk93011-max/AI-Financial-Risk-Monitoring-and-Fraud-Detection-Dashboard/blob/main/Fraud%20Status.jpeg?raw=true)
 
-## Full Dashboard Overview
-![Full Dashboard](images/POWER%20BI%20(5).jpeg)
+### Loan Analysis
+![Count Loan](https://github.com/rahulk93011-max/AI-Financial-Risk-Monitoring-and-Fraud-Detection-Dashboard/blob/main/Count%20Loan.jpeg?raw=true)
 
+### Fraud Amount Analysis
+![Fraud Amount](https://github.com/rahulk93011-max/AI-Financial-Risk-Monitoring-and-Fraud-Detection-Dashboard/blob/main/Sum%20of%20Fraud.jpeg?raw=true)
